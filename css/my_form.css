@@ -1,0 +1,78 @@
+
+
+
+.order_box{width:800px;border:1px solid #EEEEEE;margin:0 auto;font-size:10px;font-family: Arial,Helvetica,sans-serif;}
+	.order_box h1{font-size:2em;}
+	.order_box h2{font-size:1.6em;}
+	.order_box input[type="text"]{border:1px solid #BEBEBE;width:150px;background:#fff;}
+	.order_box input[type="submit"]{border:1px solid #BEBEBE;width:150px;background:#eee;font-weight:bolder;cursor:pointer}
+	.order_box input[type="submit"]:hover {color:#00ff00;background:#000;}
+	.order_box select {border:1px solid #BEBEBE;background:#fff;font-size:0.9em;}
+	.order_box .order_title{padding:10px;border-bottom:4px solid #517DBF;}
+		.order_box  .order_title h2 {float:right}
+	.order_box .subcateg_title {height:40px;font-size:1.6em;color:#5077B3;padding:10px;text-align:left;}
+	
+	.order_box .info_box{font-size:1.2em;padding:10px 10px 20px 10px;background:#dcdcdc;border-top:1px solid #ccc;border-bottom:1px solid #ccc}
+	
+		.order_box .info_box label{padding:0px 10px 2px 0px; text-align:left; font-weight:bold}
+		.order_box .info_box  .order_nav li p label{display:block;width:100px;text-align:left}
+	
+	#contact_box,#lenses_box,#invoice_box {background:#FFD3E0}
+	
+	#contact_detail	{}
+	    #contact_detail li {padding:10px 0px 0px 0px;}
+		#contact_detail p          {width:250px;float:left;}
+		#contact_detail select   {border:1px solid #BEBEBE;width:152px;background:#fff;font-size:0.9em;}
+		
+		#contact_detail label {width:80px;}
+		#contact_detail p:nth-child(3) {width:280px;}
+			#contact_detail p:nth-child(3) label{width:118px;}
+		#contact_detail p:nth-child(4) {padding:10px 0px 0px 0px;}	
+			#contact_detail p:nth-child(4) label {width:70px;}	
+		#contact_detail p:nth-child(5) {padding:10px 0px 0px 0px;}	
+	
+	#remake_box {}
+		#remake_box #remake_reason_box {padding:0px 10px;}
+	
+	#patient_box {}
+        #patient_box label {padding:3px 10px 0px 0px !important;}	
+		#patient_box .order_nav li {float:left;width:100%;padding:10px 0px 10px 0px;}
+		#patient_box .order_nav p{float:left;width:310px;}
+		#patient_box .size_field {width:358px;}
+		#patient_box .three_columns {}
+			#patient_box .three_columns p{width:260px !important;}
+			#patient_box .three_columns p label {width:98px;}
+			#patient_box .three_columns p:nth-child(2) label {text-align:right;}
+			#patient_box .three_columns p:nth-child(3) label {text-align:right;}
+		#patient_box #zip_code_field {width:208px;}
+		#patient_box #employer_field {width:262px;}
+		#patient_box #employer_field label{text-align:right}
+		#patient_box .order_nav li p .size50 {width:50px;}
+		#patient_box .order_nav li p:nth-child(2) {width:470px;}
+		
+	#lenses_box	{}
+		#lenses_box  input{width:60px;}
+		#lenses_box .left_right_lenses{text-align:left;}
+			#lenses_box .left_right_lenses  div span{float:left;}
+				
+			#lenses_box .left_right_lenses .elem_0 {width:40px;display:block;}
+				#lenses_box .left_right_lenses .elem_0 img {padding:5px 0px 5px 0px;}
+			#lenses_box .left_right_lenses .elem_1 {width:100px;display:block;}
+				#lenses_box .left_right_lenses .elem_1 img {padding:5px 0px 5px 15px;}
+			#lenses_box .left_right_lenses .elem_2 {width:100px;display:block;}
+				#lenses_box .left_right_lenses .elem_2 img {padding:5px 0px 5px 15px;}
+			#lenses_box .left_right_lenses .elem_3 {width:100px;display:block;}
+				#lenses_box .left_right_lenses .elem_3  img{padding:5px 0px 5px 10px;}
+				#lenses_box .left_right_lenses .elem_4  img{padding:5px 0px 5px 15px;}
+			
+		#lenses_box  .prism{padding:12px 0px 0px 10px;}
+			#lenses_box  .prism li{display:block;height:40px;}
+				#lenses_box  .prism label{padding:2px 10px 0;display:block;width:67px;float:left;}
+				#lenses_box  .prism select{float:left}
+		#lenses_box	.base_left{float:left;padding:0 0 0 16px;}
+			#lenses_box	.base_left label{padding:0 9px 0 1px;}
+		#lenses_box  .add_distance_lenses{padding:25px 0px 0px 0px;}
+			#lenses_box  .add_distance_lenses .add_lenses_elem {float:left;display:block;padding:0px; width:260px;}
+				#lenses_box  .add_distance_lenses .add_lenses_elem li{float:left;}
+					#lenses_box  .add_distance_lenses .add_lenses_elem li ul li{clear:both;padding:0px 5px;}
+					#dist_i

@@ -1,0 +1,101 @@
+StartFontMetrics 4.1
+Comment Copyright (c) 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated.  All Rights Reserved.
+Comment Creation Date: Thu May  1 17:27:09 1997
+Comment UniqueID 43050
+Comment VMusage 39754 50779
+FontName Courier
+FullName Courier
+FamilyName Courier
+Weight Medium
+ItalicAngle 0
+IsFixedPitch true
+CharacterSet ExtendedRoman
+FontBBox -23 -250 715 805 
+UnderlinePosition -100
+UnderlineThickness 50
+Version 003.000
+Notice Copyright (c) 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated.  All Rights Reserved.
+EncodingScheme AdobeStandardEncoding
+CapHeight 562
+XHeight 426
+Ascender 629
+Descender -157
+StdHW 51
+StdVW 51
+StartCharMetrics 315
+C 32 ; WX 600 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 600 ; N exclam ; B 236 -15 364 572 ;
+C 34 ; WX 600 ; N quotedbl ; B 187 328 413 562 ;
+C 35 ; WX 600 ; N numbersign ; B 93 -32 507 639 ;
+C 36 ; WX 600 ; N dollar ; B 105 -126 496 662 ;
+C 37 ; WX 600 ; N percent ; B 81 -15 518 622 ;
+C 38 ; WX 600 ; N ampersand ; B 63 -15 538 543 ;
+C 39 ; WX 600 ; N quoteright ; B 213 328 376 562 ;
+C 40 ; WX 600 ; N parenleft ; B 269 -108 440 622 ;
+C 41 ; WX 600 ; N parenright ; B 160 -108 331 622 ;
+C 42 ; WX 600 ; N asterisk ; B 116 257 484 607 ;
+C 43 ; WX 600 ; N plus ; B 80 44 520 470 ;
+C 44 ; WX 600 ; N comma ; B 181 -112 344 122 ;
+C 45 ; WX 600 ; N hyphen ; B 103 231 497 285 ;
+C 46 ; WX 600 ; N period ; B 229 -15 371 109 ;
+C 47 ; WX 600 ; N slash ; B 125 -80 475 629 ;
+C 48 ; WX 600 ; N zero ; B 106 -15 494 622 ;
+C 49 ; WX 600 ; N one ; B 96 0 505 622 ;
+C 50 ; WX 600 ; N two ; B 70 0 471 622 ;
+C 51 ; WX 600 ; N three ; B 75 -15 466 622 ;
+C 52 ; WX 600 ; N four ; B 78 0 500 622 ;
+C 53 ; WX 600 ; N five ; B 92 -15 497 607 ;
+C 54 ; WX 600 ; N six ; B 111 -15 497 622 ;
+C 55 ; WX 600 ; N seven ; B 82 0 483 607 ;
+C 56 ; WX 600 ; N eight ; B 102 -15 498 622 ;
+C 57 ; WX 600 ; N nine ; B 96 -15 489 622 ;
+C 58 ; WX 600 ; N colon ; B 229 -15 371 385 ;
+C 59 ; WX 600 ; N semicolon ; B 181 -112 371 385 ;
+C 60 ; WX 600 ; N less ; B 41 42 519 472 ;
+C 61 ; WX 600 ; N equal ; B 80 138 520 376 ;
+C 62 ; WX 600 ; N greater ; B 66 42 544 472 ;
+C 63 ; WX 600 ; N question ; B 129 -15 492 572 ;
+C 64 ; WX 600 ; N at ; B 77 -15 533 622 ;
+C 65 ; WX 600 ; N A ; B 3 0 597 562 ;
+C 66 ; WX 600 ; N B ; B 43 0 559 562 ;
+C 67 ; WX 600 ; N C ; B 41 -18 540 580 ;
+C 68 ; WX 600 ; N D ; B 43 0 574 562 ;
+C 69 ; WX 600 ; N E ; B 53 0 550 562 ;
+C 70 ; WX 600 ; N F ; B 53 0 545 562 ;
+C 71 ; WX 600 ; N G ; B 31 -18 575 580 ;
+C 72 ; WX 600 ; N H ; B 32 0 568 562 ;
+C 73 ; WX 600 ; N I ; B 96 0 504 562 ;
+C 74 ; WX 600 ; N J ; B 34 -18 566 562 ;
+C 75 ; WX 600 ; N K ; B 38 0 582 562 ;
+C 76 ; WX 600 ; N L ; B 47 0 554 562 ;
+C 77 ; WX 600 ; N M ; B 4 0 596 562 ;
+C 78 ; WX 600 ; N N ; B 7 -13 593 562 ;
+C 79 ; WX 600 ; N O ; B 43 -18 557 580 ;
+C 80 ; WX 600 ; N P ; B 79 0 558 562 ;
+C 81 ; WX 600 ; N Q ; B 43 -138 557 580 ;
+C 82 ; WX 600 ; N R ; B 38 0 588 562 ;
+C 83 ; WX 600 ; N S ; B 72 -20 529 580 ;
+C 84 ; WX 600 ; N T ; B 38 0 563 562 ;
+C 85 ; WX 600 ; N U ; B 17 -18 583 562 ;
+C 86 ; WX 600 ; N V ; B -4 -13 604 562 ;
+C 87 ; WX 600 ; N W ; B -3 -13 603 562 ;
+C 88 ; WX 600 ; N X ; B 23 0 577 562 ;
+C 89 ; WX 600 ; N Y ; B 24 0 576 562 ;
+C 90 ; WX 600 ; N Z ; B 86 0 514 562 ;
+C 91 ; WX 600 ; N bracketleft ; B 269 -108 442 622 ;
+C 92 ; WX 600 ; N backslash ; B 118 -80 482 629 ;
+C 93 ; WX 600 ; N bracketright ; B 158 -108 331 622 ;
+C 94 ; WX 600 ; N asciicircum ; B 94 354 506 622 ;
+C 95 ; WX 600 ; N underscore ; B 0 -125 600 -75 ;
+C 96 ; WX 600 ; N quoteleft ; B 224 328 387 562 ;
+C 97 ; WX 600 ; N a ; B 53 -15 559 441 ;
+C 98 ; WX 600 ; N b ; B 14 -15 575 629 ;
+C 99 ; WX 600 ; N c ; B 66 -15 529 441 ;
+C 100 ; WX 600 ; N d ; B 45 -15 591 629 ;
+C 101 ; WX 600 ; N e ; B 66 -15 548 441 ;
+C 102 ; WX 600 ; N f ; B 114 0 531 629 ; L i fi ; L l fl ;
+C 103 ; WX 600 ; N g ; B 45 -157 566 441 ;
+C 104 ; WX 600 ; N h ; B 18 0 582 629 ;
+C 105 ; WX 600 ; N i ; B 95 0 505 657 ;
+C 106 ; WX 600 ; N j ; B 82 -157 410 657 ;
+C 107 ; WX 600 ; N k ; B 43 0

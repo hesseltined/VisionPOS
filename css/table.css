@@ -1,0 +1,53 @@
+/* CSS Document */
+.blue-table {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-collapse: collapse;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Sans-Serif;
+    font-size: 12px;
+    margin: 20px;
+    text-align: left;
+    width: 480px;
+}
+.blue-table th {
+    border-bottom: 2px solid #6678B1;
+    color: #003399;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 8px;
+}
+.blue-table td, .blue-table td a {
+    color: #666699;
+    padding: 9px 8px 0;
+}
+.blue-table tbody tr:hover td {
+    color: #000099;
+	
+}
+
+
+
+.blue-table-b {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-collapse: collapse;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Sans-Serif;
+    font-size: 12px;
+    margin: 20px;
+    text-align: left;
+    width: 100%;
+}
+.blue-table-b th {
+    border-bottom: 2px solid #6678B1;
+    color: #003399;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 8px;
+}
+.blue-table-b td {
+    border-bottom: 1px solid #CCCCCC;
+    color: #666699;
+    padding: 6px 8px;
+}
+.blue-table-b tbody tr:hover td {
+    color: #000099;
+	background: none repeat scroll 0 0 #D0DAFD;
+}

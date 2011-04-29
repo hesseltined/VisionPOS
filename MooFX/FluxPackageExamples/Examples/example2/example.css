@@ -1,0 +1,39 @@
+.menuentry li {
+	padding-top:5px;
+	padding-bottom:5px;
+	text-align:left;
+	margin-top:2px;
+	margin-bottom:1px;
+	padding-left:5px;
+	margin-right:4px;
+	background-color:rgb(239, 192, 128);
+}
+
+.menuentry ul {
+	padding-top:5px;
+	padding-bottom:5px;
+	text-align:left;
+	list-style-type:none;
+	margin-left:0px;
+	padding-left:5px;
+	margin-top:8px;
+}
+
+.menuentry {
+	float:left;
+	background-color:rgb(252, 130, 8);
+	text-align:center;
+	color:rgb(255, 255, 255);
+	font-family:Verdana, sans-serif;
+	font-size:10px;
+	padding-top:8px;
+	cursor:pointer;
+	overflow:inherit;
+	overflow-x:hidden;
+	overflow-y:hidden;
+	width:150px;
+	height:20px;
+	margin-right:2px;
+	padding-right:1px;
+}
+

@@ -1,0 +1,39 @@
+<!--	
+
+
+<div id="bridges"  >
+	<? echo  '<label  for="bridge">Bridges<BR>'; ?>
+	<? echo  form_dropdown('bridge', $list_bridges ) . '</label>'; ?>				
+</div>
+	
+<div id="frame_divisions"  >
+	<? echo  '<label  for="frame_division">Frame Divisions<BR>'; ?>
+	<? echo  form_dropdown('division', $list_frame_divisions ) . '</label>'; ?>
+</div>
+	
+<div id="order_status"  >
+	<? echo  '<label  for="inv_status">Order Status<BR>'; ?>
+	<? echo  form_dropdown('status', $list_order_status ) . '</label>'; ?>
+</div>
+	
+	<div id="frame_manufacturers" >
+		<? echo  '<label  for="manufacturer">Frame Manufacturer<BR>'; ?>
+		<? echo  form_dropdown('manufacturer', $list_manufacturers ) . '</label>'; ?>
+	</div>
+		
+		
+	<div id="temple_length"  >
+		<? echo  '<label  for="temple_length">Temple Length<BR>'; ?>
+		<? echo  form_dropdown('temple_length', $list_temple_lengths ) . '</label>'; ?>
+	</div>
+		
+	<div id="temple_styles"  >
+		<? echo  '<label  for="temple_style">Temple Style<BR>'; ?>
+		<? echo  form_dropdown('temple_style', $list_temple_styles ) . '</label>'; ?>
+	</div>
+	
+	<div id="discounts" >
+		<? echo  '<label  for="discount">discount<BR>'; ?>
+		<? echo  form_dropdown('discount', $list_discounts ) . '</label>'; ?>				
+	</div>
+	-->

@@ -1,0 +1,86 @@
+<?php
+
+//initiate variable
+$authorization_field	= "example";
+$dispencer_id_field		= "example";
+$insurance_id_field		= "example";
+$invoice_employer_field	= "";	
+$dob_field				= "example";
+$special_instructions_field = '<textarea id="special_instructions" rows="4" cols="108" name="special_instructions"></textarea>';
+
+$current_client= "21245"; //number of client
+
+//doctor where to put it ,on default I put near dispencer
+
+//  missing  Insurance Co.:   ID ->carrier  // i add the field   
+
+//add img just for : shere, cylinder, axis, addition
+
+// add <div id="allHiddenDiv" style="display:block;">  why we need this block of HIDDEN DIV ??
+
+// #frame_name doesn`t work - I don`t know what does the function on jquery
+
+// modify remakeReason() -  need to hide label + drop_down 
+
+
+?>
+
+<script type="text/javascript">
+$sitePath	=	'<?php echo  site_url();?>'
+$(document).ready(function(){
+	usernameByDispercerId();
+	
+	/* $('input[id=dispencer_id]').bind('keyup',function(){
+		usernameByDispercerId();
+	}); */
+	$('#dispencer_id').blur(function(){
+		dispencer_name($('#dispencer_id').val());
+	});
+	/** for select Doctor start **/
+	$('select[id=doctor_id]').bind('change',function(){
+		checkForOtherDoctor();
+	});
+	checkForOtherDoctor();
+	/** for select Doctor end  **/
+
+	/** for select order type start **/
+	remakeReason();
+	/** for select order type end **/
+	/** form Validator Start  **/
+	$("#order_form").validate({
+		rules:{
+			carrier: {required:true},
+			insurance_id: {required:function() {return ($("#carrier").val()=='NONE')?false:true;}},
+			dob: {required:function() {return ($("#carrier").val()=='NONE')?false:true;}},
+			date_filed: {required:function() {return ($("#carrier").val()=='NONE')?false:true;}},
+			authorization: {required:function() {return ($("#carrier").val()=='NONE')?false:true;}},
+			diag_code: {required:function() {return ($("#carrier").val()=='NONE')?false:true;}},
+			lens_material: {required:true},
+			lens_coating: {required:true},
+			lens_color: {required: function() { return $("input#lens-color-checkbox").attr("checked"); }},
+			lens_gradient: {required: function() { return $("input#lens-color-style-gradient").attr("checked"); }}
+			},
+		messages:{
+					carrier: {required:"Required"},
+					insurance_id: {required:"Required"},
+					dob: {required:"Required"},
+					date_filed: {required:"Required"},
+					authorization: {required:"Required"},
+					diag_code: {required:"Required"},
+					lens_material: {required:"Required"},
+					lens_coating: {required:"Required"},
+					lens_color: {required:"Required"},
+					lens_gradient: {required:"Required"}
+	    		}
+		
+	});
+	/** form Validator end  **/
+	
+	/************* order Type with remake start ************/
+	$('select[id=carrier]').bind('change',function(){
+		if($('#carrier').val()=='NONE'|| $('#carrier').val()=='DISCOUNT') 
+			$('#carrierHiddenDiv').hide();
+		else
+			$('#carrierHiddenDiv').show();
+		
+		if($('#carrier').val()=='NO

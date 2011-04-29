@@ -1,0 +1,74 @@
+StartFontMetrics 4.1
+Comment Copyright (c) 1985, 1987, 1989, 1990, 1993, 1997 Adobe Systems Incorporated.  All Rights Reserved.
+Comment Creation Date: Thu May  1 12:49:17 1997
+Comment UniqueID 43068
+Comment VMusage 43909 54934
+FontName Times-Roman
+FullName Times Roman
+FamilyName Times
+Weight Roman
+ItalicAngle 0
+IsFixedPitch false
+CharacterSet ExtendedRoman
+FontBBox -168 -218 1000 898 
+UnderlinePosition -100
+UnderlineThickness 50
+Version 002.000
+Notice Copyright (c) 1985, 1987, 1989, 1990, 1993, 1997 Adobe Systems Incorporated.  All Rights Reserved.Times is a trademark of Linotype-Hell AG and/or its subsidiaries.
+EncodingScheme AdobeStandardEncoding
+CapHeight 662
+XHeight 450
+Ascender 683
+Descender -217
+StdHW 28
+StdVW 84
+StartCharMetrics 315
+C 32 ; WX 250 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 333 ; N exclam ; B 130 -9 238 676 ;
+C 34 ; WX 408 ; N quotedbl ; B 77 431 331 676 ;
+C 35 ; WX 500 ; N numbersign ; B 5 0 496 662 ;
+C 36 ; WX 500 ; N dollar ; B 44 -87 457 727 ;
+C 37 ; WX 833 ; N percent ; B 61 -13 772 676 ;
+C 38 ; WX 778 ; N ampersand ; B 42 -13 750 676 ;
+C 39 ; WX 333 ; N quoteright ; B 79 433 218 676 ;
+C 40 ; WX 333 ; N parenleft ; B 48 -177 304 676 ;
+C 41 ; WX 333 ; N parenright ; B 29 -177 285 676 ;
+C 42 ; WX 500 ; N asterisk ; B 69 265 432 676 ;
+C 43 ; WX 564 ; N plus ; B 30 0 534 506 ;
+C 44 ; WX 250 ; N comma ; B 56 -141 195 102 ;
+C 45 ; WX 333 ; N hyphen ; B 39 194 285 257 ;
+C 46 ; WX 250 ; N period ; B 70 -11 181 100 ;
+C 47 ; WX 278 ; N slash ; B -9 -14 287 676 ;
+C 48 ; WX 500 ; N zero ; B 24 -14 476 676 ;
+C 49 ; WX 500 ; N one ; B 111 0 394 676 ;
+C 50 ; WX 500 ; N two ; B 30 0 475 676 ;
+C 51 ; WX 500 ; N three ; B 43 -14 431 676 ;
+C 52 ; WX 500 ; N four ; B 12 0 472 676 ;
+C 53 ; WX 500 ; N five ; B 32 -14 438 688 ;
+C 54 ; WX 500 ; N six ; B 34 -14 468 684 ;
+C 55 ; WX 500 ; N seven ; B 20 -8 449 662 ;
+C 56 ; WX 500 ; N eight ; B 56 -14 445 676 ;
+C 57 ; WX 500 ; N nine ; B 30 -22 459 676 ;
+C 58 ; WX 278 ; N colon ; B 81 -11 192 459 ;
+C 59 ; WX 278 ; N semicolon ; B 80 -141 219 459 ;
+C 60 ; WX 564 ; N less ; B 28 -8 536 514 ;
+C 61 ; WX 564 ; N equal ; B 30 120 534 386 ;
+C 62 ; WX 564 ; N greater ; B 28 -8 536 514 ;
+C 63 ; WX 444 ; N question ; B 68 -8 414 676 ;
+C 64 ; WX 921 ; N at ; B 116 -14 809 676 ;
+C 65 ; WX 722 ; N A ; B 15 0 706 674 ;
+C 66 ; WX 667 ; N B ; B 17 0 593 662 ;
+C 67 ; WX 667 ; N C ; B 28 -14 633 676 ;
+C 68 ; WX 722 ; N D ; B 16 0 685 662 ;
+C 69 ; WX 611 ; N E ; B 12 0 597 662 ;
+C 70 ; WX 556 ; N F ; B 12 0 546 662 ;
+C 71 ; WX 722 ; N G ; B 32 -14 709 676 ;
+C 72 ; WX 722 ; N H ; B 19 0 702 662 ;
+C 73 ; WX 333 ; N I ; B 18 0 315 662 ;
+C 74 ; WX 389 ; N J ; B 10 -14 370 662 ;
+C 75 ; WX 722 ; N K ; B 34 0 723 662 ;
+C 76 ; WX 611 ; N L ; B 12 0 598 662 ;
+C 77 ; WX 889 ; N M ; B 12 0 863 662 ;
+C 78 ; WX 722 ; N N ; B 12 -11 707 662 ;
+C 79 ; WX 722 ; N O ; B 34 -14 688 676 ;
+C 80

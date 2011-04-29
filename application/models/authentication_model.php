@@ -1,0 +1,1 @@
+<? $data['authentication'] = 'not logged in - check things here'; ?>
