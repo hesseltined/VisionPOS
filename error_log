@@ -1,0 +1,2 @@
+[21-Apr-2011 06:37:28] PHP Fatal error:  Call to undefined method Minventory::report() in /home/wwwgowhg/public_html/sandbox/application/controllers/reports.php on line 419
+[26-Apr-2011 22:47:18] PHP Fatal error:  Call to a member function invoice_already_created() on a non-object in /home/wwwgowhg/public_html/sandbox/application/controllers/invoice.php on line 82
